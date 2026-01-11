@@ -1,6 +1,6 @@
 # Personality Structured Interview for Large Language Model Simulation in Personality Research
 
-![PSI](Experiment_1/Figure/pipeline.pdf)
+![PSI](Experiment_1/Figure/pipeline.png)
 
 ## Abstract
 
